@@ -109,7 +109,3 @@ Gabriel Oliveira
 📊 Data Analyst  
 🔗 LinkedIn: https://www.linkedin.com/in/gabrieloliveiraa01  
 🔗 Kaggle: https://www.kaggle.com/gabrieloliveira01
-=======
-# nyc-taxi-data-analysis
-Data analysis of NYC taxi trips to uncover demand patterns, pricing behavior, and urban mobility insights.
->>>>>>> 4983b0d3ccc64802c52de9617f10727d58543ff8
