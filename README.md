@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🚖 NYC Taxi Data Analysis
 
 ## 🎯 Objective
